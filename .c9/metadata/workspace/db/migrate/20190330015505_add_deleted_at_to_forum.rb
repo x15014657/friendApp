@@ -1,0 +1,1 @@
+{"title":"20190330015505_add_deleted_at_to_forum.rb","tooltip":"/db/migrate/20190330015505_add_deleted_at_to_forum.rb","filter":false,"undoManager":{"mark":-1,"position":-1,"stack":[]},"timestamp":1553910905799,"hash":"7181a61924024d5ab1a9ad40390d07b10c7b8849"}

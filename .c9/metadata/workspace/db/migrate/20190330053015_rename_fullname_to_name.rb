@@ -1,0 +1,1 @@
+{"title":"20190330053015_rename_fullname_to_name.rb","tooltip":"/db/migrate/20190330053015_rename_fullname_to_name.rb","filter":false,"undoManager":{"mark":-1,"position":-1,"stack":[]},"timestamp":1553923815898,"hash":"d131e406859034de4ee6e67d005656e3b7504008"}
