@@ -100,7 +100,7 @@ GEM
       activerecord (>= 4.0, < 5.3)
     pg (1.1.4)
     popper_js (1.14.5)
-    rack (1.6.8)
+    rack (1.6.12)
     rack-test (0.6.3)
       rack (>= 1.0)
     rails (4.2.5)
